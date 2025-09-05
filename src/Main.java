@@ -84,6 +84,7 @@ public class Main {
         for (i = 0; i < 2125; i += 79) {
         if (i>=1825) System.out.println(i);}
 
+
         /*short currentYear = 1825;
         while (currentYear <= 2125) {
             if (currentYear % 79 == 0) {
